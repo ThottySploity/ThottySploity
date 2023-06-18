@@ -10,6 +10,9 @@ During my initial years as a bachelor's student, I embarked on a new project cal
 
 Throughout my journey thus far, I have explored various domains such as IoT, networking, userland, and kernel-level exploitation. Among these areas, I find Active Directory hacking particularly intriguing. It presents a captivating field that captivates my attention and fuels my desire to delve deeper into its intricacies.
 
+## Disclaimer ##
+All the code shared in my repositories is for educational purposes only. It is meant to provide insights into specific implementations and facilitate learning. I take no responsibility for the actions or consequences of anyone using the code in these repositories. It is essential to use the code responsibly and abide by the laws and regulations of your jurisdiction.
+
 ## Experience
 
 **Junior Penetration Tester**
