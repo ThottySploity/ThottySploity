@@ -1,48 +1,26 @@
-## About
+<h1 align="center">Hi there 👋, I'm a Security Researcher and Pentester</h1>
+<h3 align="center">I post random blog posts about topics I find interesting :)</h3>
 
-Hello reader,
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thottysploity&label=Profile%20views&color=0e75b6&style=flat" alt="thottysploity" /> </p>
 
-I am known as Thanatos, although over the years, people have affectionately given me the nickname "Thotty." Consequently, my account bears the name ThottySploity. As a Rust programmer, my expertise lies in crafting unsafe and experimental code. I primarily devote my efforts to developing low-level red-team implementations for various scenarios. Through my code, I strive to provide educational insights into the functioning of specific implementations in real-world scenarios. I strongly caution against blindly copying and utilizing my work, as my primary objective revolves around facilitating learning rather than causing harm to anyone.
+- 🔭 I’m currently working on [Avatek](https://github.com/ThottySploity/Avatek)
 
-All the code I develop is licensed under the MIT license. While it is not my intention to create code specifically designed to bypass antivirus (AV) or Endpoint-Detection and Response (EDR) systems, it is possible that it may inadvertently have this effect. However, I want to clarify that I am not available to provide assistance or support to individuals seeking guidance on bypassing such systems. Although I possess expertise in this area, I consciously choose not to devote my time or be held responsible for enabling or encouraging such activities.
+- ⚡ Fun fact **I like dogs, in particularly Rottweilers.**
 
-During my initial years as a bachelor's student, I embarked on a new project called mimikatz-rs. This project involved implementing mimikatz, a popular tool, using the Rust programming language. Through this endeavor, my passion for developing low-level code for red-team implementations was ignited. The development of mimikatz-rs served as a catalyst for my growing interest in pursuing security research.
+- 📝 I regularly write articles on [My Blog](https://thottysploity.github.io/)
 
-Throughout my journey thus far, I have explored various domains such as IoT, networking, userland, and kernel-level exploitation. Among these areas, I find Active Directory hacking particularly intriguing. It presents a captivating field that captivates my attention and fuels my desire to delve deeper into its intricacies.
+- 📫 How to reach me [Discord](https://discord.gg/2kwjpmY5Zp)
 
-## Disclaimer ##
-All the code shared in my repositories is for educational purposes only. It is meant to provide insights into specific implementations and facilitate learning. I take no responsibility for the actions or consequences of anyone using the code in these repositories. It is essential to use the code responsibly and abide by the laws and regulations of your jurisdiction.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/https://discord.gg/2kwjpmY5Zp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2kwjpmY5Zp" height="30" width="40" /></a>
+<a href="/https://thottysploity.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://thottysploity.github.io/" height="30" width="40" /></a>
+</p>
 
-## Experience
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-**Junior Penetration Tester**
-Jan 2022 - Feb 2022
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thottysploity&show_icons=true&locale=en&layout=compact" alt="thottysploity" /></p>
 
-**Junior Programmer**
-Aug 2020 - March 2021
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thottysploity&" alt="thottysploity" /></p>
 
-## Certifications
-
-- TryHackMe - Red Teaming
-  - Dec 2022 - No Expiration Date
-- TryHackMe - Introduction to Cyber Security
-  - Nov 2022 - No Expiration Date
-- TryHackMe - Pre Security
-  - Nov 2022 - No Expiration Date
-- CNSS Certified Network Security Specialist (Certificate of Attendance)
-  - May 2019 - No Expiration Date
-
-## Training
-
-- Cisco Certified Network Associate (CCNA)
-
-## Education
-
-- Bachelor's degree - IT - Cyber Security, Infrastructure & Management.
-  - 2020 - 2024
-- College degree - IT - Systems and devices administration
-  - 2017 - 2020
-
-## Special Thanks
-
-A special thanks to [memN0ps](https://github.com/memN0ps) for their valuable contributions and support.
