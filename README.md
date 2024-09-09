@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thottysploity&label=Profile%20views&color=0e75b6&style=flat" alt="thottysploity" /> </p>
 
-- 🔭 I’m currently working on [Avatek](https://github.com/ThottySploity/Avatek)
+- 🔭 I’m currently working on [Halcyon](https://github.com/ThottySploity/Halcyon)
 
 - ⚡ Fun fact **I like dogs, in particularly Rottweilers.**
 
