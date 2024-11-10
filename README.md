@@ -3,10 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thottysploity&label=Profile%20views&color=0e75b6&style=flat" alt="thottysploity" /> </p>
 
-- 🔭 I’m currently working on [Halcyon](https://github.com/ThottySploity/Halcyon)
-
-- ⚡ Fun fact **I like dogs, in particularly Rottweilers.**
-
 - 📝 I regularly write articles on [My Blog](https://thottysploity.github.io/)
 
 - 📫 How to reach me [Discord](https://discord.gg/2kwjpmY5Zp)
